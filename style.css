@@ -1,0 +1,18 @@
+body{
+    background-color: #2C2141;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.main{
+
+background-color: #F8F8F8;
+border-radius: 16px;
+width: 624px;
+}
+.img-personal-card{
+width: 150px;
+height: 160px;
+border-radius: 50px;
+}
